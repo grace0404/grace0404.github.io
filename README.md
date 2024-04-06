@@ -14,7 +14,7 @@
             width:300px;
             height: 200px;
             text-align: center;
-            background-image: url('https://search.pstatic.net/sunny/?src=https%3A%2F%2Fpng.pngtree.com%2Felement_origin_min_pic%2F16%2F09%2F18%2F0957ddf31500c46.jpg&type=sc960_832');
+            background-image: url('C:\Users\gyuri\Pictures\귤_files\0957ddf31500c46.jpg');
             background-size: cover;
             background-position: center;
             border-radius: 10px;
